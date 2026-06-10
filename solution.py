@@ -2,7 +2,7 @@
 ==============================================================
 Day 10 Lab: Build Your First Automated ETL Pipeline
 ==============================================================
-Student ID: AI20K-1010
+Student ID: 2A202601010
 Name: Trần Quang Huy
 
 Nhiệm vụ:
